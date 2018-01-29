@@ -56,7 +56,7 @@ md_to_tex <- function(str) {
 }
 
 pdf_file <- function(...) {
-  system.file("rmarkdown", "templates", "pdf", ..., package = "resumer")
+  system.file("rmarkdown", "templates", "pdf", ..., package = "resumr")
 }
 
 inherit_pdf_document <- function(...) {
