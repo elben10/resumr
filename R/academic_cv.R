@@ -8,6 +8,10 @@
 #'
 #' @return R markdown format to pass to \code{\link[rmarkdown:render]{render}}
 #'
+#' @examples
+#' \dontrun{
+#' rmarkdown::draft("MyCV.Rmd", template = "academic_cv", package = "resumr")
+#' }
 academic_cv <- function(...) {
   template <- pdf_file("resources", "template.tex")
   file.copy(pdf_file("skeleton", "res.cls"), ".")

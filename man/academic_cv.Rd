@@ -16,3 +16,8 @@ R markdown format to pass to \code{\link[rmarkdown:render]{render}}
 Rmarkdown template for creating a nice looking resume adapted from
 \href{http://www.rpi.edu/dept/arc/training/latex/resumes/}{Rensselaer Polytechnic Institute}.
 }
+\examples{
+\dontrun{
+rmarkdown::draft("MyCV.Rmd", template = "academic_cv", package = "resumr")
+}
+}
