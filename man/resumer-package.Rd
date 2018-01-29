@@ -4,12 +4,17 @@
 \name{resumer-package}
 \alias{resumer}
 \alias{resumer-package}
-\title{resumer: What the Package Does (one line, title case)}
+\title{resumer: A neat resume (CV) template}
 \description{
-What the package does (one paragraph).
+A nice formatted template for resumes in Rmarkdown
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com}
+\strong{Maintainer}: Jakob Jul Elben \email{elbenjakobjul@gmail.com} [copyright holder]
+
+Other contributors:
+\itemize{
+  \item Michael DeCorte \email{mrd@sun.soe.clarkson.edu} [copyright holder]
+}
 
 }
 \keyword{internal}
