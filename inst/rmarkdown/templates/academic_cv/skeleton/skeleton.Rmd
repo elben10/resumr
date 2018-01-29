@@ -5,7 +5,7 @@ postcode: "Atlanta, Georgia 30309"
 phone: "\\(770) 401-6678"
 email: "josheppinette@gmail.com"
 emailcolor: "black"
-output: resumer::academic_cv
+output: resumr::academic_cv
 ---
 
 ```{r setup, include=FALSE}
