@@ -1,13 +1,16 @@
 Package: resumer
-Version: 0.0.0.9000
 Title: A neat resume (CV) template
-Description: A nice formatted template for resumes in Rmarkdown
+Version: 0.0.0.9000
 Authors@R: c(
     person("Jakob Jul", "Elben", ,"elbenjakobjul@gmail.com", c("aut", "cre", "cph")),
     person("Michael", "DeCorte", , "mrd@sun.soe.clarkson.edu", role = "cph")
     )
+Description: A nice formatted template for resumes in Rmarkdown
 License: MIT + file LICENSE
+Imports: 
+    knitr,
+    rmarkdown
+ByteCompile: true
 Encoding: UTF-8
 LazyData: true
-ByteCompile: true
 RoxygenNote: 6.0.1
