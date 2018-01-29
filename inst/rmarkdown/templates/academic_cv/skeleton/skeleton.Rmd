@@ -18,10 +18,10 @@ To obtain a career that will allow myself to take full advantage of my passion a
 
 # TECHNOLOGY \ SKILLS
 
-_Programming Languages:_ Golang, Python, JavaScript.
-_Operations Technologies:_ Digital Ocean, AWS, Google Compute Engine, Docker Swarm, Terraform, Continuous Integration, Continuous Delivery, Continuous Deployment, Ansible.
-_Web Backend Technologies:_ Nginx, NodeJS, Django, MongoDB, PostgreSQL, MySQL, Heroku.
-_Web Frontend Technologies:_ AngularJS, JQuery, Bootstrap3, Gulp, Bower, NodeJS.
+_Programming Languages:_ Golang, Python, JavaScript.  
+_Operations Technologies:_ Digital Ocean, AWS, Google Compute Engine, Docker Swarm, Terraform, Continuous   Integration, Continuous Delivery, Continuous Deployment, Ansible.  
+_Web Backend Technologies:_ Nginx, NodeJS, Django, MongoDB, PostgreSQL, MySQL, Heroku.  
+_Web Frontend Technologies:_ AngularJS, JQuery, Bootstrap3, Gulp, Bower, NodeJS.  
 
 # EXPERIENCE
 
