@@ -1,4 +1,13 @@
+#' Academic looking resume
+#'
+#' Rmarkdown template for creating a nice looking resume adapted from
+#' \href{http://www.rpi.edu/dept/arc/training/latex/resumes/}{Rensselaer Polytechnic Institute}.
 #' @export
+#' @inheritParams rmarkdown::pdf_document
+#' @param ... Arguments to \code{rmarkdown::pdf_document}
+#'
+#' @return R markdown format to pass to \code{\link[rmarkdown:render]{render}}
+#'
 academic_cv <- function(...) {
   template <- pdf_file("resources", "template.tex")
   file.copy(pdf_file("skeleton", "res.cls"), ".")
