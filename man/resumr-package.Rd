@@ -8,6 +8,14 @@
 \description{
 A nice formatted template for resumes in Rmarkdown
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/elben10/resumr}
+  \item Report bugs at \url{https://github.com/elben10/resumr/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Jakob Jul Elben \email{elbenjakobjul@gmail.com} [copyright holder]
 
