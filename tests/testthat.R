@@ -1,4 +1,4 @@
 library(testthat)
-library(resumer)
+library(resumr)
 
-test_check("resumer")
+test_check("resumr")
