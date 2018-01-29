@@ -16,3 +16,5 @@ LazyData: true
 RoxygenNote: 6.0.1
 Suggests: 
     testthat
+URL: https://github.com/elben10/resumr
+BugReports: https://github.com/elben10/resumr/issues
