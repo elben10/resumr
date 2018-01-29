@@ -6,7 +6,7 @@
 \alias{resumr-package}
 \title{resumr: A neat resume (CV) template}
 \description{
-A nice formatted template for resumes in Rmarkdown
+A nice formatted template for resumes in Rmarkdown.
 }
 \seealso{
 Useful links:
