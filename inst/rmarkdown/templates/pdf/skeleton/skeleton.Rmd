@@ -1,0 +1,67 @@
+---
+name: "Joshua Taylor Eppinette"
+adress: "1163 West Peachtree St Ne Unit 2603"
+postcode: "Atlanta, Georgia 30309"
+phone: "\\(770) 401-6678"
+email: "josheppinette@gmail.com"
+emailcolor: "black"
+output: resumer::academic_cv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, break_sections = TRUE)
+```
+
+# OBJECTIVE
+
+To obtain a career that will allow myself to take full advantage of my passion and experience in software engineering and development operations.
+
+# TECHNOLOGY \ SKILLS
+
+_Programming Languages:_ Golang, Python, JavaScript.
+_Operations Technologies:_ Digital Ocean, AWS, Google Compute Engine, Docker Swarm, Terraform, Continuous Integration, Continuous Delivery, Continuous Deployment, Ansible.
+_Web Backend Technologies:_ Nginx, NodeJS, Django, MongoDB, PostgreSQL, MySQL, Heroku.
+_Web Frontend Technologies:_ AngularJS, JQuery, Bootstrap3, Gulp, Bower, NodeJS.
+
+# EXPERIENCE
+
+```{section, title = "___Software Engineer___", date = "June 2015 - Present", subtitle = "_Ionic Security Inc, Atlanta, GA_"}
+
+- Developed and designed a large AngularJS web application.
+- Implemented and maintained multiple enterprise API authentication strategies in Golang and AngularJS.
+- Leveraged Golang's compiled nature to simplify deployments and decrease ops issues.
+- Developed and maintained the development environment used by front end software engineers.
+- Developed a distributed authentication and routing system for a SOA using Golang, Nginx, and Lua.
+- Integrated the Jenkins Continuous Integration(CI) systems into the existing deployment processes.
+- Implemented web application security standards defined by OWASP.
+```
+
+```{section, title = "___Software Engineer___", date = "August 2013 - June 2015", subtitle = "_Georgia Tech Research Institute, Electronic Systems Laboratory, Atlanta, GA_"}
+- Designed and developed Django/AngularJS software systems for the Department of Defense, Army, and Navy.
+- Presented software demos to Department of Defense derived clients.
+```
+
+```{section, title = "___Consultant, Owner___", date = "May 2014 - Present", subtitle = "_JTE Technologies, Atlanta, GA_"}
+
+- Designed and developed large Django/AngularJS and Golang/AngularJS software systems.
+- Setup continuous deployments for multiple projects of varying technologies through GitLab CI and Docker Swarm.
+- Provisioned and maintained multiple Docker Swarm clusters using Ansible and Terraform.
+```
+
+# COMMUNITY \ SERVICE
+
+```{section title = "Kennesaw Mountain Trail Club, Volunteer", date = "August 2014 - May 2015"}
+```
+```{section title = "Race Against Violence, Volunteer", date = "December 2013 - August 2014"}
+```
+```{section title = "911 Memorial Stair Climb For The Fallen Heroes,", date = "August 2011 - May 2012", subtitle = "Volunteer & Climber"}
+```
+
+# EXTRA-CURRICULAR \ ACTIVITIES
+
+```{section title = "Kappa Sigma Fraternity, President", date = "August 2014 - May 2015"}
+```
+```{section title = "Kappa Sigma Fraternity, Treasurer", date = "December 2013 - August 2014"}
+```
+```{section title = "Technology Student Association, Team Leader", date = "August 2011 - May 2012"}
+```
